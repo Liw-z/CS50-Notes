@@ -1,0 +1,5 @@
+Notes for compreensive learn about the course
+
+Functions are commands translated to machine languague by the python interpreter for executing actions
+Arguments are inputs to Functions that influences its behavior
+Functions are followed by side effects visible or not
